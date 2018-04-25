@@ -27,3 +27,4 @@ Let's say you're in the club with your buddy. The music's blaring, lights are fl
 
 ## Resources
 - [React Events](https://facebook.github.io/react/docs/events.html)
+<p data-visibility='hidden'>PHRG React Event System Lab</p>
